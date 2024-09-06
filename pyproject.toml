@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "ftp-client"
+version = "0.1.0"
+description = ""
+authors = ["Lucifer516-sudoer <harishvengatachalam02092005@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+typer = "^0.12.5"
+rich = "^13.8.0"
+humanize = "^4.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.scripts]
+ftp-client = "ftp_client.ftp_server:app"
+
