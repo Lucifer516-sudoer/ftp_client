@@ -1,5 +1,7 @@
 # A simple ftp client (actually a server)
 
+## Demo
+[Demo video of FTP Server working](demo/demo-video)
 
 ## Method 1: use pipx to install
 
