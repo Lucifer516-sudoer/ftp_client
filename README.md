@@ -2,7 +2,8 @@
 
 ## Demo
 <!-- [![Demo video of FTP Server working](https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-thumbnail.png)](https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-video.mp4) -->
-https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-video.mp4
+https://github.com/user-attachments/assets/57e94890-0570-40f9-a824-f06d2f063b24
+
 ## Method 1: use pipx to install
 
 - Install pipx first:
