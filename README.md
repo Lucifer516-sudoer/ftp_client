@@ -1,7 +1,7 @@
 # A simple ftp client (actually a server)
 
 ## Demo
-[![Demo video of FTP Server working](https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-thumbnail.png)](https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-video)
+[![Demo video of FTP Server working](https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-thumbnail.png)](https://raw.githubusercontent.com/Lucifer516-sudoer/ftp_client/main/demo/demo-video.mp4)
 ## Method 1: use pipx to install
 
 - Install pipx first:
